@@ -17,18 +17,18 @@ O corpo do e-mail, foi realizado em HTML utilizando lógicas de if/else para sab
 
 ### As metas são:
 
-##### Meta faturamento do dia por loja: R$1.000,00
-##### Meta faturamento do ano por loja: R$1.650.000,00
+- Meta faturamento do dia por loja: R$1.000,00
+- Meta faturamento do ano por loja: R$1.650.000,00
 
-##### Meta Diversidade de Produto do dia por loja: 4
-##### Meta Diversidade de Produto do ano por loja: 120
+- Meta Diversidade de Produto do dia por loja: 4
+- Meta Diversidade de Produto do ano por loja: 120
 
-##### Meta Ticket Médio tanto do ano quanto do dia: R$500,00
+- Meta Ticket Médio tanto do ano quanto do dia: R$500,00
 
 ### Antes de utilizar o script:
 
-#### 1- Altere na planilha databases/Emails.xlsx para seu e-mail ou um e-mail válido que corresponda ao nome do gerente.
-#### 2- Altere o password para um password válido do seu g-mail para o envio dos e-mails.
-#### 3- Realize o pip install de todas as biblioteas.
-#### 4- Caso queira alterar as metas para a sua realidade, altere no código as váriaveis.
+- Altere na planilha databases/Emails.xlsx para seu e-mail ou um e-mail válido que corresponda ao nome do gerente.
+- Altere o password para um password válido do seu g-mail para o envio dos e-mails.
+- Realize o pip install de todas as biblioteas.
+- Caso queira alterar as metas para a sua realidade, altere no código as váriaveis.
 
