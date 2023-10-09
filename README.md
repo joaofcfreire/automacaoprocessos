@@ -25,9 +25,10 @@ O corpo do e-mail, foi realizado em HTML utilizando lógicas de if/else para sab
 
 ##### Meta ticket médio tanto do ano quanto do dia: R$500,00
 
-#### Antes de utilizar o script
+### Antes de utilizar o script
 
 #### 1- Altere na planilha databases/Emails.xlsx para seu e-mail ou um e-mail válido que corresponda ao nome do gerente.
 #### 2- Altere o password para um password válido do seu g-mail para o envio dos e-mails.
 #### 3- Realize o pip install de todas as biblioteas.
+#### 4- Caso queira alterar as metas para a sua realidade, altere no código as váriaveis.
 
