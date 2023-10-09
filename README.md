@@ -23,7 +23,7 @@ O corpo do e-mail, foi realizado em HTML utilizando lógicas de if/else para sab
 ##### Meta Diversidade de Produto do dia por loja: 4
 ##### Meta Diversidade de Produto do ano por loja: 120
 
-##### Meta ticket médio tanto do ano quanto do dia: R$500,00
+##### Meta Ticket Médio tanto do ano quanto do dia: R$500,00
 
 ### Antes de utilizar o script:
 
